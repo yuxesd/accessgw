@@ -13,5 +13,5 @@
 1、进入**智能接入网关 AccessGW**页面，**智能网关**标签页。
 
 2，选择需要删除的智能网关实例，点击**删除**。
-![image](/images/accessgw/guide/accessgw/删除智能网关.png)
+![image](/images/guide/accessgw/删除智能网关.png)
 3，删除后，智能网关实例将被删除。EIP使用超过7天，删除后将进入EIP回收站。
