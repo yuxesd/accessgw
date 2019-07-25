@@ -15,17 +15,16 @@
 
     注：接入盒子实例不区分项目，可在该账号内全部项目下共享。
 
-![image](/images/accessgw/guide/accessbox/接入盒子.png)
+![image](/images/guide/accessbox/接入盒子.png)
 3、填写配置信息进行购买。详细配置说明见下方。
-![image](/images/accessgw/guide/accessbox/购买盒子.png)
+![image](/images/guide/accessbox/购买盒子.png)
 4，点击**立即购买**，即购买成功。
-![image](/images/accessgw/guide/accessbox/接入盒子展示.png)
+![image](/images/guide/accessbox/接入盒子展示.png)
 
 ## 配置说明
 
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
 | 配置   | 说明                                                           |
+| ---- | ------------------------------------------------------------ |
 | 盒子模式 | 店铺版和企业版，说明见[模式简介](/network/accessgw/introduction/accessbox/) |
 | 资源名称 | 命名该接入盒子。                                                     |
 | 业务组  | 所属的管理业务组。                                                    |
