@@ -7,17 +7,16 @@
 1、进入**智能接入网关 AccessGW**页面，**智能网关**标签页。
 
 2，点击**新建智能网关**进行智能网关实例创建。
-![image](/images/accessgw/guide/accessgw/智能网关.png)
+![image](/images/guide/accessgw/智能网关.png)
 3、填写配置信息进行创建。详细配置说明见下方。
-![image](/images/accessgw/guide/accessgw/新建智能接入网关.png)
+![image](/images/guide/accessgw/新建智能接入网关.png)
 4，点击**立即购买**，即创建成功。
-![image](/images/accessgw/guide/accessgw/智能网关展示.png)
+![image](/images/guide/accessgw/智能网关展示.png)
 
 ## 配置说明
 
-|        |                                     |
-| ------ | ----------------------------------- |
 | 配置     | 说明                                  |
+| ------ | ----------------------------------- |
 | 地域     | 智能网关所属的地域。选定地域后，只能选择该地域下的VPC。       |
 | 智能网关名称 | 命名该智能网关。                            |
 | 业务组    | 所属的管理业务组。                           |
