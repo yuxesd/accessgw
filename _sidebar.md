@@ -1,4 +1,4 @@
-<div class="sidebar_title"> 智能接入网关 AccessGW（邀测中.）</div>
+<div class="sidebar_title"> 智能接入网关 AccessGW（邀测中）</div>
 
 * [概览](network/accessgw/overview)
 * 产品简介
