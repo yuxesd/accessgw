@@ -9,7 +9,7 @@
     * [产品价格](network/accessgw/buy/price)
     * [应用场景](network/accessgw/buy/type)
 * 操作指南
-    * 智能接入网关
+    * 接入网关
         * [新建](network/accessgw/guide/accessgw/create)
         * [删除](network/accessgw/guide/accessgw/delete)
         * [绑定接入盒子](network/accessgw/guide/accessgw/bind)
