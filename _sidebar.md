@@ -1,8 +1,8 @@
-<div class="sidebar_title"> 智能接入网关 AccessGW（邀测中）</div>
+<div class="sidebar_title"> 智能接入盒子 AccessBox（邀测中）</div>
 
 * [概览](network/accessgw/overview)
 * 产品简介
-    * [什么是智能接入网关](network/accessgw/introduction/concept)
+    * [什么是智能接入盒子](network/accessgw/introduction/concept)
     * [接入盒子简介](network/accessgw/introduction/accessbox)
     * [产品优势](network/accessgw/introduction/advantages)
     * [使用限制](network/accessgw/introduction/limit)
