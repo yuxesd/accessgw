@@ -1,6 +1,6 @@
-<div class="sidebar_title"> 智能接入盒子 AccessBox（邀测中）</div>
+# 概览
 
-* [概览](/accessgw/README)
+
 * 产品简介
     * [什么是智能接入盒子](/accessgw/introduction/concept)
     * [产品优势](/accessgw/introduction/advantages)
