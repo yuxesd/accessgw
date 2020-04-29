@@ -3,7 +3,6 @@
 * 产品简介
     * [什么是智能接入盒子](/accessgw/introduction/concept)
     * [产品优势](/accessgw/introduction/advantages)
-    * [使用限制](/accessgw/introduction/limit)
 * 购买指导
     * [产品价格](/accessgw/buy/price)
     * [应用场景](/accessgw/buy/type)
