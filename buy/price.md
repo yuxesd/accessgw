@@ -4,7 +4,7 @@
 
 ## 智能接入网关
 
-智能接入网关实例免费，仅收取外网带宽费用，带宽费用见[EIP收费说明](unet/eip/introduction)。
+智能接入网关实例免费，仅收取外网带宽费用，带宽费用见[EIP收费说明](unet/eip/eip_price/traffic)。
 
 ## 接入盒子
 
