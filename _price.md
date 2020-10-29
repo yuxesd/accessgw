@@ -9,6 +9,6 @@
 
 ## 产品价格
 <!-- udocs:price -->
-| 产品规格 | 操作 |
-| :---- | :---- | 
-| 店铺版 | [立即购买](https://console.ucloud.cn/uaccessgw/buyBox) |
+| 产品规格 |产品价格| 操作 |
+| :---- | :---- | :---- | 
+| 店铺版 | 3100元/台|[立即购买](https://console.ucloud.cn/uaccessgw/buyBox) |
